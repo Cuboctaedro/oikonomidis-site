@@ -19,7 +19,9 @@
     },
     "require": {
         "php": ">=7.3.0 <8.1.0",
-        "getkirby/cms": "^3.5"
+        "getkirby/cms": "^3.5",
+        "k-community/markdown-field": "^1.0",
+        "felixhaeberle/kirby3-webp": "^1.0"
     },
     "scripts": {
         "start": [
