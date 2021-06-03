@@ -1,0 +1,18 @@
+Title: 1970-1979
+
+----
+
+Artworks:
+
+- 
+  image:
+    - 1a.jpg
+  caption: ""
+- 
+  image:
+    - 37.jpg
+  caption: ""
+- 
+  image:
+    - 107.jpg
+  caption: ""

@@ -1,3 +1,31 @@
 title: Site
-preset: pages
-unlisted: true
+
+sections:
+    workslist:
+        type: pages
+        layout: list
+        templates: category
+        headline: Work Groups
+        status: all
+        parent: site.find("works")
+    poemlist:
+        type: pages
+        layout: list
+        templates: document
+        headline: Poetry
+        status: all
+        parent: site.find("poetry")
+    critlist:
+        type: pages
+        layout: list
+        templates: document
+        headline: Critique
+        status: all
+        parent: site.find("critique")
+    pages:
+        type: pages
+        layout: list
+        create: 
+          - default
+        headline: Pages
+        status: all

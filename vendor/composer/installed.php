@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '8a6c7d6046d423d5a0aff3c67e2737e8c4345732',
+    'reference' => '41d669e295e65df5dbf952551ca29e3b91143c8f',
     'name' => 'getkirby/plainkit',
   ),
   'versions' => 
@@ -19,15 +19,6 @@
       array (
       ),
       'reference' => '21b6f4bf4ef1927158b3e29bd0c2d99c6681c750',
-    ),
-    'felixhaeberle/kirby3-webp' => 
-    array (
-      'pretty_version' => 'v1.0.1',
-      'version' => '1.0.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '696c5cb06cf45d94e7713acad2d19acf6430ad19',
     ),
     'filp/whoops' => 
     array (
@@ -63,7 +54,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '8a6c7d6046d423d5a0aff3c67e2737e8c4345732',
+      'reference' => '41d669e295e65df5dbf952551ca29e3b91143c8f',
     ),
     'k-community/markdown-field' => 
     array (
@@ -143,24 +134,6 @@
       array (
       ),
       'reference' => 'd49695b909c3b7628b6289db5479a1c204601f11',
-    ),
-    'rosell-dk/image-mime-type-guesser' => 
-    array (
-      'pretty_version' => '0.3',
-      'version' => '0.3.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '204fd61ca81e3b0ba46c6165dab8f74816b1fe99',
-    ),
-    'rosell-dk/webp-convert' => 
-    array (
-      'pretty_version' => '2.6.0',
-      'version' => '2.6.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'ed230afe56d3157dc402c33585e3ab7f15c7ac80',
     ),
     'symfony/polyfill-mbstring' => 
     array (
