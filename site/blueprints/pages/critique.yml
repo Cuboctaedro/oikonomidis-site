@@ -1,0 +1,10 @@
+title: Critique
+
+sections:
+    list:
+        type: pages
+        layout: list
+        templates: document
+        headline: Critiques
+        status: all
+

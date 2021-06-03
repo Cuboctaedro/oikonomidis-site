@@ -1,0 +1,22 @@
+title: Document
+
+tabs:
+    doc:
+        label: Content
+        icon: text
+        fields:
+            image:
+                type: files
+                label: Image
+                multiple: false
+            text:
+                extends: fields/textarea
+                label: Text
+    pagefiles:
+        label: Page Files
+        icon: folder
+        sections:
+            pagefiles:
+                type: files
+                headline: Page Files
+                layout: list

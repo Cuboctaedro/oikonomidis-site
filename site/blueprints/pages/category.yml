@@ -1,0 +1,16 @@
+title: Works Category
+
+tabs:
+    works:
+        label: Works
+        icon: image
+        fields:
+            artworks: fields/artworks
+    pagefiles:
+        label: Page Files
+        icon: folder
+        sections:
+            pagefiles:
+                type: files
+                headline: Page Files
+                layout: list

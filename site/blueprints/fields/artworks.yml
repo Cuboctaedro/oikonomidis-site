@@ -1,0 +1,18 @@
+label: Artworks
+type: structure
+fields:
+    image:
+        label: Image
+        type: files
+        multiple: false
+        layout: cards
+        width: 1/2
+    caption:
+        label: Caption
+        type: textarea
+        size: small
+        width: 1/2
+        buttons:
+          - italic
+          - bold
+          - link
