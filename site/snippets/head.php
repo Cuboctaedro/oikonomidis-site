@@ -34,7 +34,7 @@
 </head>
 
 <body class="font-serif min-h-screen">
-    <div class="navbar container mx-auto mb-12 lg:mb-24 flex flex-row items-center justify-between py-2 lg:py-4">
+    <div class="navbar container mx-auto px-4 md:px-8 mb-12 lg:mb-24 flex flex-row items-center justify-between py-2 lg:py-4">
         <header class="">
             <?php if ($page->isHomePage()) : ?>
                 <h1 class="text-2xl"><?= $site->title() ?></h1>
@@ -44,4 +44,4 @@
         </header>
         <?php snippet('menu'); ?>
     </div>
-    <div class="container mx-auto ">
+    <div class="container mx-auto px-4 md:px-8">

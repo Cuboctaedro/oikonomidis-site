@@ -18,7 +18,9 @@
                 </a>
 
                 <div id="work-<?= $i ?>">
-                    <div class="">
+                    <div class="work-frame">
+                    <!-- <img src="<?= $pic->resize(1200)->url() ?>" alt="<?= $caption ?>"> -->
+
                         <figure class="">
                             <picture>
                                 <source srcset="<?= $pic->resize(300, 460)->url() ?>" media="(max-width: 360px)">

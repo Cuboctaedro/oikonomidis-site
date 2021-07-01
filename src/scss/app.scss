@@ -71,3 +71,10 @@
         opacity: 0;
     }
 }
+
+[data-menu-list] {
+    top: 0;
+    &.is-hidden {
+        top: -100%;
+    }
+}

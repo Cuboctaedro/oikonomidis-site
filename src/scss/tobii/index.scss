@@ -112,11 +112,11 @@
   }
 
   & [data-type] {
-    max-height: var(--slide-max-height);
-    max-width: var(--slide-max-width);
-    overflow: hidden;
-    overflow-y: auto;
-    overscroll-behavior: contain;
+    // max-height: var(--slide-max-height);
+    // max-width: var(--slide-max-width);
+    // overflow: hidden;
+    // overflow-y: auto;
+    // overscroll-behavior: contain;
   }
 
   & iframe,
@@ -124,24 +124,27 @@
     display: block !important;
   }
 
-  & figure {
-    margin: 0;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-height: 90vh;
-    max-width: 90vw;
+  & .work-frame figure {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 90vh;
+      width: 90vw;
+      img {
+        object-fit: contain;
+        object-position: center;
+        width: 100%;
+        height:100%;
 
-
-    & > img {
-      display: block;
-      // height: auto;
-      // max-height: var(--slide-max-height);
-      // max-width: var(--slide-max-width);
-      // width: auto;
-    }
-
+      }
+    //   figure {
+    //       object-fit: cover;
+    //       object-position: center;
+    //       img {
+    //           display: block;
+    //       }
+    //   }
   }
 
   & [data-type='html'] {
