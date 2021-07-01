@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@midzer/tobii": "^2.1.0",
+    "lazysizes": "^5.3.2",
     "tailwindcss": "^2.1.4"
   },
   "devDependencies": {

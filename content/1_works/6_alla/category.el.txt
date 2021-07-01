@@ -2,4 +2,65 @@ Title: 'Αλλα
 
 ----
 
-Artworks: 
+Artworks:
+
+- 
+  image:
+    - 160.jpg
+  caption: ""
+- 
+  image:
+    - 161.jpg
+  caption: ""
+- 
+  image:
+    - 162.jpg
+  caption: ""
+- 
+  image:
+    - 163.jpg
+  caption: ""
+- 
+  image:
+    - 164.jpg
+  caption: ""
+- 
+  image:
+    - 165.jpg
+  caption: ""
+- 
+  image:
+    - 165a.jpg
+  caption: ""
+- 
+  image:
+    - 166.jpg
+  caption: ""
+- 
+  image:
+    - 166a.jpg
+  caption: ""
+- 
+  image:
+    - 167.jpg
+  caption: ""
+- 
+  image:
+    - 167a.jpg
+  caption: ""
+- 
+  image:
+    - 168.jpg
+  caption: ""
+- 
+  image:
+    - 168a.jpg
+  caption: ""
+- 
+  image:
+    - 169.jpg
+  caption: ""
+- 
+  image:
+    - 170.jpg
+  caption: ""

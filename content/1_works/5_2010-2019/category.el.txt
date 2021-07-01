@@ -2,4 +2,221 @@ Title: 2010-2019
 
 ----
 
-Artworks: 
+Artworks:
+
+- 
+  image:
+    - 2.jpg
+  caption: ""
+- 
+  image:
+    - 3.jpg
+  caption: ""
+- 
+  image:
+    - 4.jpg
+  caption: ""
+- 
+  image:
+    - 5.jpg
+  caption: ""
+- 
+  image:
+    - 7a.jpg
+  caption: ""
+- 
+  image:
+    - 12.jpg
+  caption: ""
+- 
+  image:
+    - 13a.jpg
+  caption: ""
+- 
+  image:
+    - 14.jpg
+  caption: ""
+- 
+  image:
+    - 14a.jpg
+  caption: ""
+- 
+  image:
+    - 17.jpg
+  caption: ""
+- 
+  image:
+    - 22a.jpg
+  caption: ""
+- 
+  image:
+    - 23a.jpg
+  caption: ""
+- 
+  image:
+    - 24.jpg
+  caption: ""
+- 
+  image:
+    - 25.jpg
+  caption: ""
+- 
+  image:
+    - 28.jpg
+  caption: ""
+- 
+  image:
+    - 30a.jpg
+  caption: ""
+- 
+  image:
+    - 46.jpg
+  caption: ""
+- 
+  image:
+    - 46a.jpg
+  caption: ""
+- 
+  image:
+    - 47a.jpg
+  caption: ""
+- 
+  image:
+    - 48.jpg
+  caption: ""
+- 
+  image:
+    - 49.jpg
+  caption: ""
+- 
+  image:
+    - 50.jpg
+  caption: ""
+- 
+  image:
+    - 51.jpg
+  caption: ""
+- 
+  image:
+    - 51a.jpg
+  caption: ""
+- 
+  image:
+    - 52.jpg
+  caption: ""
+- 
+  image:
+    - 52a.jpg
+  caption: ""
+- 
+  image:
+    - 56a.jpg
+  caption: ""
+- 
+  image:
+    - 59.jpg
+  caption: ""
+- 
+  image:
+    - 74a.jpg
+  caption: ""
+- 
+  image:
+    - 106a.jpg
+  caption: ""
+- 
+  image:
+    - 117.jpg
+  caption: ""
+- 
+  image:
+    - 118.jpg
+  caption: ""
+- 
+  image:
+    - 140.jpg
+  caption: ""
+- 
+  image:
+    - 141.jpg
+  caption: ""
+- 
+  image:
+    - 141a.jpg
+  caption: ""
+- 
+  image:
+    - 142.jpg
+  caption: ""
+- 
+  image:
+    - 142a.jpg
+  caption: ""
+- 
+  image:
+    - 144.jpg
+  caption: ""
+- 
+  image:
+    - 144a.jpg
+  caption: ""
+- 
+  image:
+    - 145.jpg
+  caption: ""
+- 
+  image:
+    - 146a.jpg
+  caption: ""
+- 
+  image:
+    - 147.jpg
+  caption: ""
+- 
+  image:
+    - 147a.jpg
+  caption: ""
+- 
+  image:
+    - 148.jpg
+  caption: ""
+- 
+  image:
+    - 149a.jpg
+  caption: ""
+- 
+  image:
+    - 150.jpg
+  caption: ""
+- 
+  image:
+    - 150a.jpg
+  caption: ""
+- 
+  image:
+    - 151.jpg
+  caption: ""
+- 
+  image:
+    - 151a.jpg
+  caption: ""
+- 
+  image:
+    - 152.jpg
+  caption: ""
+- 
+  image:
+    - 153.jpg
+  caption: ""
+- 
+  image:
+    - 153a.jpg
+  caption: ""
+- 
+  image:
+    - 154.jpg
+  caption: ""
+- 
+  image:
+    - 154a.jpg
+  caption: ""

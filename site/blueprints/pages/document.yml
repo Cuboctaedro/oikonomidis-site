@@ -5,10 +5,10 @@ tabs:
         label: Content
         icon: text
         fields:
-            image:
+            pictures:
                 type: files
-                label: Image
-                multiple: false
+                label: Images
+                multiple: true
             text:
                 extends: fields/textarea
                 label: Text

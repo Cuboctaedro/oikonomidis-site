@@ -13,8 +13,8 @@ module.exports = {
       '2xl': '1536px',
     },
     fontFamily: {
-      'sans': ['Roboto', 'Arial-ui', 'sans-serif'],
-      serif: ['Literata', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+      'sans': ['IBM Plex Sans', 'Roboto', 'Arial-ui', 'sans-serif'],
+      'serif': ['Source Serif Pro', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
      }
 
   },

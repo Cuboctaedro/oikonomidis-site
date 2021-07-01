@@ -2,4 +2,129 @@ Title: 1990-1999
 
 ----
 
-Artworks: 
+Artworks:
+
+- 
+  image:
+    - 2a.jpg
+  caption: ""
+- 
+  image:
+    - 8a.jpg
+  caption: ""
+- 
+  image:
+    - 15.jpg
+  caption: ""
+- 
+  image:
+    - 17a.jpg
+  caption: ""
+- 
+  image:
+    - 19.jpg
+  caption: ""
+- 
+  image:
+    - 20a.jpg
+  caption: ""
+- 
+  image:
+    - 27a.jpg
+  caption: ""
+- 
+  image:
+    - 29a.jpg
+  caption: ""
+- 
+  image:
+    - 30.jpg
+  caption: ""
+- 
+  image:
+    - 31.jpg
+  caption: ""
+- 
+  image:
+    - 31a.jpg
+  caption: ""
+- 
+  image:
+    - 33.jpg
+  caption: ""
+- 
+  image:
+    - 34.jpg
+  caption: ""
+- 
+  image:
+    - 36.jpg
+  caption: ""
+- 
+  image:
+    - 37.jpg
+  caption: ""
+- 
+  image:
+    - 38a.jpg
+  caption: ""
+- 
+  image:
+    - 41.jpg
+  caption: ""
+- 
+  image:
+    - 43.jpg
+  caption: ""
+- 
+  image:
+    - 50a.jpg
+  caption: ""
+- 
+  image:
+    - 54a.jpg
+  caption: ""
+- 
+  image:
+    - 56.jpg
+  caption: ""
+- 
+  image:
+    - 100.jpg
+  caption: ""
+- 
+  image:
+    - 123.jpg
+  caption: ""
+- 
+  image:
+    - 149.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0151.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0153.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0162.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0163.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0167.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0173.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0179.jpg
+  caption: ""

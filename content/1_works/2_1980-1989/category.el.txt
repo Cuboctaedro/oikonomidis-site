@@ -2,4 +2,93 @@ Title: 1980-1989
 
 ----
 
-Artworks: 
+Artworks:
+
+- 
+  image:
+    - 3a.jpg
+  caption: ""
+- 
+  image:
+    - 8.jpg
+  caption: ""
+- 
+  image:
+    - 21.jpg
+  caption: ""
+- 
+  image:
+    - 23.jpg
+  caption: ""
+- 
+  image:
+    - 28a.jpg
+  caption: ""
+- 
+  image:
+    - 41a.jpg
+  caption: ""
+- 
+  image:
+    - 42.jpg
+  caption: ""
+- 
+  image:
+    - 44a.jpg
+  caption: ""
+- 
+  image:
+    - 45a.jpg
+  caption: ""
+- 
+  image:
+    - 48a.jpg
+  caption: ""
+- 
+  image:
+    - 79a.jpg
+  caption: ""
+- 
+  image:
+    - 129.jpg
+  caption: ""
+- 
+  image:
+    - 129a.jpg
+  caption: ""
+- 
+  image:
+    - 130.jpg
+  caption: ""
+- 
+  image:
+    - 130a.jpg
+  caption: ""
+- 
+  image:
+    - 131.jpg
+  caption: ""
+- 
+  image:
+    - 131a.jpg
+  caption: ""
+- 
+  image:
+    - 132.jpg
+  caption: ""
+- 
+  image:
+    - 133.jpg
+  caption: ""
+- 
+  image:
+    - 133a.jpg
+  caption: ""
+- 
+  image:
+    - 155.jpg
+  caption: ""
+- 
+  image:
+    - dsc_0185.jpg
+  caption: ""
